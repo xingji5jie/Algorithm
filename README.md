@@ -1,2 +1,2 @@
 # Algorithm
-practise common Algorithm
+ Algorithm
