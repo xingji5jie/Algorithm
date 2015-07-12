@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
-#include <memory.h>
+//#include <memory.h>
 
 /*
  * 取名原因: 将两个(或两个以上)有序序列合并成一个新的有序序列，即把待排序序列分为若干个子序列，
